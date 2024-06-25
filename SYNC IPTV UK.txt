@@ -574,9 +574,9 @@ http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014313
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014312
 #EXTINF:-1 tvg-id="" tvg-name="UK| GOD CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/UK/GOD-CHANNEL.png" group-title="UK| GENERAL",UK| GOD CHANNEL
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014311
-#EXTINF:-1 tvg-id="uk.RTÉ Two" tvg-name="UK| RTE TWO HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/RTETWO-1.png" group-title="UK| GENERAL",UK| RTE TWO HD
+#EXTINF:-1 tvg-id="uk.RTÃ‰ Two" tvg-name="UK| RTE TWO HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/RTETWO-1.png" group-title="UK| GENERAL",UK| RTE TWO HD
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014309
-#EXTINF:-1 tvg-id="uk.RTÉ One" tvg-name="UK| RTE ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/RTEONE-1.png" group-title="UK| GENERAL",UK| RTE ONE HD
+#EXTINF:-1 tvg-id="uk.RTÃ‰ One" tvg-name="UK| RTE ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/RTEONE-1.png" group-title="UK| GENERAL",UK| RTE ONE HD
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014308
 #EXTINF:-1 tvg-id="" tvg-name="UK| CHANNEL 4 +1" tvg-logo="http://logo.protv.cc/picons/logos/UK/CHANNEL4.png" group-title="UK| GENERAL",UK| CHANNEL 4 +1
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1014307
@@ -1370,7 +1370,7 @@ http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1074677
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/30525
 #EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NATGEOWILD-1.png" group-title="UK| DOCUMENTARY",UK| NAT GEO WILD HD
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1057013
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NAT GEO WILD SD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NATGEOWILD-1.png" group-title="UK| DOCUMENTARY",UK| NAT GEO WILD SD
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NATÂ GEOÂ WILDÂ SD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NATGEOWILD-1.png" group-title="UK| DOCUMENTARY",UK| NATÂ GEOÂ WILDÂ SD
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1057014
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/NATGEOWILD-1.png" group-title="UK| DOCUMENTARY",UK| NAT GEO FHD
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/30526
@@ -1520,7 +1520,7 @@ http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1361887
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1361888
 #EXTINF:-1 tvg-id="" tvg-name="D+ (UK) Events 36: Gallagher Premiership Rugby | Story of the Premiership | Tue 25 Jun 13:00" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",D+ (UK) Events 36: Gallagher Premiership Rugby | Story of the Premiership | Tue 25 Jun 13:00
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1361889
-#EXTINF:-1 tvg-id="" tvg-name="D+ (UK) Events 37: Cycling | Internationale LOTTO Thüringen Ladies Tour | Stage 1 | Women | Jena (118.5km) | Tue 25 Jun 14:00" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",D+ (UK) Events 37: Cycling | Internationale LOTTO Thüringen Ladies Tour | Stage 1 | Women | Jena (118.5km) | Tue 25 Jun 14:00
+#EXTINF:-1 tvg-id="" tvg-name="D+ (UK) Events 37: Cycling | Internationale LOTTO ThÃ¼ringen Ladies Tour | Stage 1 | Women | Jena (118.5km) | Tue 25 Jun 14:00" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",D+ (UK) Events 37: Cycling | Internationale LOTTO ThÃ¼ringen Ladies Tour | Stage 1 | Women | Jena (118.5km) | Tue 25 Jun 14:00
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1361890
 #EXTINF:-1 tvg-id="" tvg-name="D+ (UK) Events 38: Tennis | Australian Open | Women | Singles | Final | Tue 25 Jun 14:00" tvg-logo="http://logo.protv.cc/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",D+ (UK) Events 38: Tennis | Australian Open | Women | Singles | Final | Tue 25 Jun 14:00
 http://55041-pride.oot-mx.me:80/nt9wuvy1hh/bjy9w3k2ir/1361891
